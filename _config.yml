@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: Notes to Search
+desciption: Fortune Favours the Bold
+
+timezone: Asia/Seoul
+paginate: 5
