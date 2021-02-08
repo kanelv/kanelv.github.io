@@ -1,4 +1,4 @@
-## Welcome to Cuong's Blog
+## Welcome to Kane's Blog
 ---
 
 ### Markdown
