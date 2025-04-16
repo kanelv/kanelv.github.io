@@ -29,7 +29,7 @@ I’m also proud of my contributions to the tech community, like my presentation
 
 ## Download
 
-Want to learn more about my experience? You can download my [CV here](/cv/LeVanCuong-Software-Developer.pdf) (PDF) for a detailed look at my skills, projects, and career journey.
+Want to learn more about my experience? You can download my [CV here](/cv/LeVanCuong-Software_Engineer.pdf) (PDF) for a detailed look at my skills, projects, and career journey.
 
 ## Let’s Connect
 
