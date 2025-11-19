@@ -49,7 +49,7 @@ security headers (CSP, X-XSS-Protection, nosniff), and created custom XSS filter
 
 ## Links
 
-- [GitHub Repository](https://github.com/kane/LibraryManagementAPI)
+- [GitHub Repository](https://github.com/kanelv/LibraryManagementAPI)
 
 ## Timeline
 

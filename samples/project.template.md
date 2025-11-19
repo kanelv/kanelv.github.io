@@ -1,6 +1,7 @@
 ---
 title: "Project Name"
 date: 2025-01-01T00:00:00+07:00
+weight: 2
 draft: false
 tags: ["tag1", "tag2"]
 ---
