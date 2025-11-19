@@ -21,3 +21,5 @@ theme = 'hugo-PaperMod'
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 4
+  [markup.goldmark.renderer]
+    unsafe = true
