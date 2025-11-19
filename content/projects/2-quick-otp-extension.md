@@ -44,9 +44,9 @@ only persisting essential data (excluding generated OTP values).
 
 ## Links
 
-- [GitHub Repository](https://github.com/kanelv/quick-otp)
+- <a href="https://github.com/kanelv/quick-otp" target="_blank">GitHub Repository</a>
 
 ## Timeline
 
-**Started:** January 2025
+**Started:** September 2025
 **Status:** Active Development

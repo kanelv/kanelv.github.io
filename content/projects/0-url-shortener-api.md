@@ -52,9 +52,9 @@ making the code testable and maintainable.
 
 ## Links
 
-- [GitHub Repository](https://github.com/kanelv/url-shortener)
+- <a href="https://github.com/kanelv/url-shortener" target="_blank">GitHub Repository</a>
 
 ## Timeline
 
-**Started:** 2024
+**Started:** July 2024
 **Status:** Active Development
