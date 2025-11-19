@@ -69,7 +69,7 @@ In my spare time, I enjoy building hands-on projects that explore different tech
 
 ## Download CV
 
-Download my [CV here](/cv/LeVanCuong-Software_Engineer.pdf) (PDF) for a detailed look at my experience and skills.
+Download my [CV here](/cv/LeVanCuong_Software_Engineer_latest.pdf) (PDF) for a detailed look at my experience and skills.
 
 ## Contact
 
